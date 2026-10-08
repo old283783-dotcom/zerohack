@@ -1,0 +1,1 @@
+print("ZERO HACK — SYSTEM ONLINE ⚡")
